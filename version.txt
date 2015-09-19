@@ -1,0 +1,4 @@
+1. r235-index.php 页面初版完成
+2. r267-index.php 调整页面元素位置
+3. r293-index.php jQuery/jQuery Mobile库及对应css文件移至本地
+4. r295-index.php css文件错误，应选择min.css版本，需注意的是，采用本地存放时调试时jquery会报错，但不影响运行
